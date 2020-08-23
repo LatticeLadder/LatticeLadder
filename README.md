@@ -1,3 +1,3 @@
-GitHub不常用，[码云](https://gitee.com/theinterestingsoul/)
+Also have a look at [MY GITEE PROFILE](https://gitee.com/theinterestingsoul/), since I hardly use GitHub.
 
-![据说在readme挂这个很流行？](https://github-readme-stats.vercel.app/api?username=TheInterestingSoul)
+![](https://github-readme-stats.vercel.app/api?username=TheInterestingSoul)
