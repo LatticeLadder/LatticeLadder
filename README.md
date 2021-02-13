@@ -1,10 +1,5 @@
-Also have a look at the following profiles, thank you!
+### TheInterestingSoul
 
-- [E-mail](mailto:wangpy01@outlook.com)
-- [Gitee](https://gitee.com/theinterestingsoul/)
-- [Netease Music](https://music.163.com/#/user/home?id=332988779)
-- QQ Number: 1974224207
-- [Coolapk](https://coolapk.com/) ID: `tis有趣的灵魂`
-- Feel free to [open a issue](https://github.com/TheInterestingSoul/TheInterestingSoul/issues/new) here if you have any other questions.
+[E-mail](mailto:wangpy01@outlook.com) | [Gitee](https://gitee.com/theinterestingsoul/) | [Netease Music](https://music.163.com/#/user/home?id=332988779) | [QQ](https://wpa.qq.com/msgrd?v=3&uin=QQ号码&site=qqq&menu=yes) | [Coolapk](https://coolapk.com/u/2314114) | [Bilibili](https://space.bilibili.com/130892654) | [Open a issue here](https://github.com/TheInterestingSoul/TheInterestingSoul/issues/new)
 
 ![](https://github-readme-stats.vercel.app/api?username=TheInterestingSoul)
