@@ -4,4 +4,4 @@
 
 Any question about me? [Open an issue here](https://github.com/TheInterestingSoul/TheInterestingSoul/issues/new).
 
-Avatar comes from [Tycho - Small Sanctuary](https://tycho.lnk.to/sanctuaryAP).
+Avatar by [Ana Curcan](https://unsplash.com/photos/a-woman-looking-through-a-pair-of-glasses-9o3pmr6wEM0).
